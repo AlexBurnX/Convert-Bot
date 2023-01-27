@@ -1,4 +1,4 @@
-TOKEN = '5824194404:AAGYGYXwpzm-3sC-uBrbQ4zGx7sW69EvhT0'
+TOKEN = 'API-KEY'
 currency = {
     'евро': ['EUR', '€'],
     'доллар': ['USD', '$'],
